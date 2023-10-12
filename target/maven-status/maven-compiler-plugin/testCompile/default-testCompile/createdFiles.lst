@@ -1,0 +1,4 @@
+pages\TAFENSWHomePage.class
+pages\SearchResultsPage.class
+cucumber\Options\TestRunner.class
+stepDefinitions\CourseSearchSteps.class
